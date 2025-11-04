@@ -1,0 +1,11 @@
+---
+## 🚀 MVP Roadmap
+
+| Phase | Goals |
+|-------|-------|
+| **Week 1** | Set up frontend layout, live stream player, basic routing |
+| **Week 2** | Integrate APIs (GitHub, NewsAPI, arXiv), build Discover feed |
+| **Week 3** | Add AI podcast generation logic, transcript overlay |
+| **Week 4** | Launch Debate Hub, enable live chat and polling |
+| **Week 5** | Polish UI, deploy to Vercel/Netlify, test streaming stability |
+---
