@@ -1,0 +1,6 @@
+mkdir backend
+cd backend
+npm init -y
+npm install express axios cors dotenv
+
+const express = require('express');
